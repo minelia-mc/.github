@@ -10,7 +10,7 @@ Minelia is a Minecraft server that strives to provide a great gaming experience 
 - Dedicated and friendly staff members 🗿 
 
 ## Getting Started
-To get started, you can join our server at `fr.minelia.com` and start playing right away! You can also join our Discord at `https://discord.gg/y3wxz9XFY4` to discuss any ideas or suggestions you may have.
+To get started, you can join our server at `fr.minelia.com` and start playing right away! You can also join our [Discord](`https://discord.gg/y3wxz9XFY4`) to discuss any ideas or suggestions you may have.
 
 ## Thank you
 We want to thank all of our players for their continued support and dedication to the server. Without you, Minemia would not be possible!
